@@ -1,0 +1,13 @@
+
+{
+  "name": "mansour-video-downloader",
+  "version": "1.0.0",
+  "description": "Mansour Video Downloader API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
